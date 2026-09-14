@@ -94,11 +94,59 @@
 
 <br/>
 
-### 03 — activity
+### 03 — materials on the desk
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&hide_title=true&bg_color=FBF5E6&text_color=6b5d4f&title_color=2E2A22&langs_count=6" height="150"/>
+<svg width="820" height="66" viewBox="0 0 820 66" xmlns="http://www.w3.org/2000/svg">
+  <g font-family="Georgia, serif" font-size="13" fill="#2E2A22">
+    <g transform="translate(20,12) rotate(-2)">
+      <rect width="98" height="34" rx="4" fill="#F0D7D7"/>
+      <text x="49" y="22" text-anchor="middle">CSS3</text>
+    </g>
+    <g transform="translate(128,12) rotate(2)">
+      <rect width="98" height="34" rx="4" fill="#D7E3F0"/>
+      <text x="49" y="22" text-anchor="middle">C#</text>
+    </g>
+    <g transform="translate(236,12) rotate(-1)">
+      <rect width="70" height="34" rx="4" fill="#CFE3D8"/>
+      <text x="35" y="22" text-anchor="middle">C</text>
+    </g>
+    <g transform="translate(316,12) rotate(2)">
+      <rect width="98" height="34" rx="4" fill="#E3D7EF"/>
+      <text x="49" y="22" text-anchor="middle">C++</text>
+    </g>
+    <g transform="translate(424,12) rotate(-2)">
+      <rect width="128" height="34" rx="4" fill="#F5E3B0"/>
+      <text x="64" y="22" text-anchor="middle">JavaScript</text>
+    </g>
+    <g transform="translate(562,12) rotate(1)">
+      <rect width="98" height="34" rx="4" fill="#F0D9C2"/>
+      <text x="49" y="22" text-anchor="middle">Java</text>
+    </g>
+    <g transform="translate(670,12) rotate(-2)">
+      <rect width="98" height="34" rx="4" fill="#E9C9C0"/>
+      <text x="49" y="22" text-anchor="middle">HTML5</text>
+    </g>
+  </g>
+</svg>
+
+<sub><i>the languages that show up most often in the margins</i></sub>
+
+</div>
+
+<br/>
+
+### 04 — activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=Poddoo&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=2E2A22&text_color=4a4a4a&icon_color=5B7A93" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=Poddoo&theme=transparent&hide_border=true&background=00000000&ring=5B7A93&fire=C0574C&currStreakLabel=2E2A22" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Poddoo&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=2E2A22&text_color=4a4a4a" height="150"/>
 
 <br/>
 <sub>pulled live from the repositories — reflects what's actually there, nothing staged</sub>
@@ -107,17 +155,17 @@
 
 <br/>
 
-### 04 — postscript
+### 05 — postscript
 
 <div align="center">
 
-**GitHub** → [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+**GitHub** → [github.com/Poddoo](https://github.com/Poddoo)
 &nbsp;&nbsp;·&nbsp;&nbsp;
 **LinkedIn** → [YOUR_LINKEDIN_URL](YOUR_LINKEDIN_URL)
 
 <br/>
 
-<sub>notebook opened <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=8a7256&label=times" height="14"/></sub>
+<sub>notebook opened <img src="https://komarev.com/ghpvc/?username=Poddoo&color=8a7256&style=flat&label=times" height="14"/></sub>
 
 </div>
 
