@@ -16,8 +16,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rowshonjahanpoddo&color=58a6ff&style=flat-square&label=Profile+Views)
 &nbsp;&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/rowshonjahanpoddo?style=flat-square&color=58a6ff&labelColor=0d1117&label=Followers)](https://github.com/rowshonjahanpoddo?tab=followers)
-&nbsp;&nbsp;
+
 [![LinkedIn](https://img.shields.io/badge/-rowshonjahanpoddo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rowshonjahanpoddo/)
 
 </div>
