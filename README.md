@@ -1,43 +1,32 @@
 <div align="center">
 
-<svg width="820" height="200" viewBox="0 0 820 200" xmlns="http://www.w3.org/2000/svg">
-  <rect x="0" y="0" width="820" height="200" rx="6" fill="#FBF5E6" stroke="#E4D9BE" stroke-width="2"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rowshon%20Jahan%20Poddo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%26%20Developer%20%C2%B7%20Bangladesh&descAlignY=58&descSize=18&descColor=f0f0f0" width="100%"/>
 
-  <!-- ruled lines -->
-  <g stroke="#D7E3F0" stroke-width="1">
-    <line x1="95" y1="40" x2="800" y2="40"/>
-    <line x1="95" y1="66" x2="800" y2="66"/>
-    <line x1="95" y1="92" x2="800" y2="92"/>
-    <line x1="95" y1="118" x2="800" y2="118"/>
-    <line x1="95" y1="144" x2="800" y2="144"/>
-    <line x1="95" y1="170" x2="800" y2="170"/>
-  </g>
-  <line x1="80" y1="15" x2="80" y2="185" stroke="#E3A9A9" stroke-width="1.5"/>
+</div>
 
-  <!-- spiral binding -->
-  <g fill="none" stroke="#B9B2A2" stroke-width="3">
-    <circle cx="28" cy="20" r="9"/>
-    <circle cx="28" cy="55" r="9"/>
-    <circle cx="28" cy="90" r="9"/>
-    <circle cx="28" cy="125" r="9"/>
-    <circle cx="28" cy="160" r="9"/>
-    <circle cx="28" cy="190" r="9"/>
-  </g>
+<br/>
 
-  <!-- pushpin -->
-  <g transform="translate(768,26)">
-    <line x1="0" y1="0" x2="-6" y2="16" stroke="#8a8a8a" stroke-width="2"/>
-    <circle cx="0" cy="0" r="8" fill="#C0574C"/>
-    <circle cx="-3" cy="-3" r="2.4" fill="#E79A8F"/>
-  </g>
+## <sub>◆</sub> identity card
 
-  <text x="112" y="72" font-family="Segoe Print, Comic Sans MS, cursive" font-size="30" fill="#2E2A22">Rowshon Jahan Poddo</text>
-  <text x="112" y="100" font-family="Georgia, serif" font-size="14" letter-spacing="1" fill="#6b6b6b">CSE Student &amp; Developer  —  Bangladesh</text>
+<div align="center">
 
-  <!-- washi tape -->
-  <g transform="translate(112,124) rotate(-2)">
-    <rect x="0" y="0" width="270" height="22" fill="#CFE3D8" opacity="0.85"/>
-    <text x="10" y="16" font-family="Georgia, serif" font-size="12" fill="#3c4a42">web development · software engineering</text>
+<svg width="600" height="220" viewBox="0 0 600 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#5B4FE0"/>
+      <stop offset="55%" stop-color="#8A2BE2"/>
+      <stop offset="100%" stop-color="#C13ED2"/>
+    </linearGradient>
+  </defs>
+
+  <g transform="translate(40,20) skewY(-5)">
+    <rect x="-8" y="10" width="520" height="150" rx="16" fill="#12081f" opacity="0.35"/>
+    <rect x="0" y="0" width="520" height="150" rx="16" fill="url(#cardGrad)"/>
+    <polygon points="0,0 180,0 40,150 0,150" fill="#ffffff" opacity="0.06"/>
+    <text x="30" y="42" font-family="Georgia, serif" font-size="27" fill="#ffffff">Rowshon Jahan Poddo</text>
+    <text x="30" y="70" font-family="Georgia, serif" font-size="15" fill="#F1EBFF">CSE Student &amp; Developer</text>
+    <text x="30" y="96" font-family="Georgia, serif" font-size="14" fill="#E4D9FF">📍 Bangladesh</text>
+    <text x="30" y="122" font-family="Georgia, serif" font-size="14" fill="#E4D9FF">Web Development &amp; Software Engineering</text>
   </g>
 </svg>
 
@@ -45,132 +34,168 @@
 
 <br/>
 
-> **field notes** — this profile is kept the way a working notebook is kept: a running record, not a highlight reel.
-
-<br/>
-
-### 01 — who
-
-|  |  |
-|---|---|
-| **Name** | Rowshon Jahan Poddo |
-| **Role** | CSE Student & Developer |
-| **Location** | Bangladesh |
-| **Focus** | Web Development & Software Engineering |
-
-<br/>
-
-### 02 — the loop
+## <sub>◆</sub> the mindset, in three dimensions
 
 <div align="center">
 
-<svg width="640" height="230" viewBox="0 0 640 230" xmlns="http://www.w3.org/2000/svg">
+<svg width="700" height="260" viewBox="0 0 700 260" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <marker id="arrow" markerWidth="10" markerHeight="10" refX="6" refY="3" orient="auto">
-      <path d="M0,0 L6,3 L0,6 Z" fill="#5B7A93"/>
+    <marker id="arrH" markerWidth="10" markerHeight="10" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#8A2BE2"/>
     </marker>
   </defs>
 
-  <circle cx="320" cy="38" r="46" fill="#FDF6EC" stroke="#5B7A93" stroke-width="2"/>
-  <text x="320" y="34" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#2E2A22">Learn</text>
-  <text x="320" y="52" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#7a7a7a">read · study · absorb</text>
+  <!-- Learn (short block) -->
+  <g transform="translate(70,156)">
+    <polygon points="35,0 70,17 35,34 0,17" fill="#5B4FE0"/>
+    <polygon points="0,17 35,34 35,64 0,47" fill="#3E36A8"/>
+    <polygon points="35,34 70,17 70,47 35,64" fill="#2C2680"/>
+    <text x="35" y="-10" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#2E2A22">Learn</text>
+  </g>
 
-  <circle cx="130" cy="180" r="46" fill="#FDF6EC" stroke="#5B7A93" stroke-width="2"/>
-  <text x="130" y="176" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#2E2A22">Build</text>
-  <text x="130" y="194" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#7a7a7a">write · ship · test</text>
+  <!-- Build (medium block) -->
+  <g transform="translate(300,126)">
+    <polygon points="35,0 70,17 35,34 0,17" fill="#8A2BE2"/>
+    <polygon points="0,17 35,34 35,89 0,72" fill="#651FA8"/>
+    <polygon points="35,34 70,17 70,72 35,89" fill="#4A1780"/>
+    <text x="35" y="-10" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#2E2A22">Build</text>
+  </g>
 
-  <circle cx="510" cy="180" r="46" fill="#FDF6EC" stroke="#5B7A93" stroke-width="2"/>
-  <text x="510" y="176" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#2E2A22">Improve</text>
-  <text x="510" y="194" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#7a7a7a">review · refine · repeat</text>
+  <!-- Improve (tall block) -->
+  <g transform="translate(530,96)">
+    <polygon points="35,0 70,17 35,34 0,17" fill="#C13ED2"/>
+    <polygon points="0,17 35,34 35,114 0,97" fill="#932DA0"/>
+    <polygon points="35,34 70,17 70,97 35,114" fill="#6E2178"/>
+    <text x="35" y="-10" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#2E2A22">Improve</text>
+  </g>
 
-  <path d="M 285 65 Q 200 120 168 148" fill="none" stroke="#5B7A93" stroke-width="1.6" stroke-dasharray="5 4" marker-end="url(#arrow)"/>
-  <path d="M 178 195 Q 320 250 470 197" fill="none" stroke="#5B7A93" stroke-width="1.6" stroke-dasharray="5 4" marker-end="url(#arrow)"/>
-  <path d="M 480 148 Q 400 90 357 66" fill="none" stroke="#5B7A93" stroke-width="1.6" stroke-dasharray="5 4" marker-end="url(#arrow)"/>
+  <!-- ascending arrows -->
+  <path d="M 130 165 Q 210 130 295 130" fill="none" stroke="#8A2BE2" stroke-width="2" stroke-dasharray="5 4" marker-end="url(#arrH)"/>
+  <path d="M 360 130 Q 440 100 525 100" fill="none" stroke="#8A2BE2" stroke-width="2" stroke-dasharray="5 4" marker-end="url(#arrH)"/>
+
+  <!-- loop-back arrow -->
+  <path d="M 570 95 Q 400 -10 90 130" fill="none" stroke="#C13ED2" stroke-width="2" stroke-dasharray="3 5" marker-end="url(#arrH)"/>
+  <text x="350" y="18" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#8a5a99">repeat</text>
 </svg>
-
-<sub><i>no fixed end point — each pass feeds the next</i></sub>
 
 </div>
 
 <br/>
 
-### 03 — materials on the desk
+## <sub>◆</sub> tech stack
 
 <div align="center">
 
-<svg width="820" height="66" viewBox="0 0 820 66" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
   <g font-family="Georgia, serif" font-size="13" fill="#2E2A22">
-    <g transform="translate(20,12) rotate(-2)">
-      <rect width="98" height="34" rx="4" fill="#F0D7D7"/>
-      <text x="49" y="22" text-anchor="middle">CSS3</text>
+
+    <g transform="translate(20,10)">
+      <polygon points="35,0 70,17 35,34 0,17" fill="#2965F1"/>
+      <polygon points="0,17 35,34 35,64 0,47" fill="#1E4EC0"/>
+      <polygon points="35,34 70,17 70,47 35,64" fill="#163A90"/>
     </g>
-    <g transform="translate(128,12) rotate(2)">
-      <rect width="98" height="34" rx="4" fill="#D7E3F0"/>
-      <text x="49" y="22" text-anchor="middle">C#</text>
+    <text x="55" y="95" text-anchor="middle">CSS3</text>
+
+    <g transform="translate(130,10)">
+      <polygon points="35,0 70,17 35,34 0,17" fill="#A44FC0"/>
+      <polygon points="0,17 35,34 35,64 0,47" fill="#7A3B92"/>
+      <polygon points="35,34 70,17 70,47 35,64" fill="#5C2C6E"/>
     </g>
-    <g transform="translate(236,12) rotate(-1)">
-      <rect width="70" height="34" rx="4" fill="#CFE3D8"/>
-      <text x="35" y="22" text-anchor="middle">C</text>
+    <text x="165" y="95" text-anchor="middle">C#</text>
+
+    <g transform="translate(240,10)">
+      <polygon points="35,0 70,17 35,34 0,17" fill="#A8B9CC"/>
+      <polygon points="0,17 35,34 35,64 0,47" fill="#8797A6"/>
+      <polygon points="35,34 70,17 70,47 35,64" fill="#66707F"/>
     </g>
-    <g transform="translate(316,12) rotate(2)">
-      <rect width="98" height="34" rx="4" fill="#E3D7EF"/>
-      <text x="49" y="22" text-anchor="middle">C++</text>
+    <text x="275" y="95" text-anchor="middle">C</text>
+
+    <g transform="translate(350,10)">
+      <polygon points="35,0 70,17 35,34 0,17" fill="#1D7DC2"/>
+      <polygon points="0,17 35,34 35,64 0,47" fill="#155E92"/>
+      <polygon points="35,34 70,17 70,47 35,64" fill="#0F4266"/>
     </g>
-    <g transform="translate(424,12) rotate(-2)">
-      <rect width="128" height="34" rx="4" fill="#F5E3B0"/>
-      <text x="64" y="22" text-anchor="middle">JavaScript</text>
+    <text x="385" y="95" text-anchor="middle">C++</text>
+
+    <g transform="translate(460,10)">
+      <polygon points="35,0 70,17 35,34 0,17" fill="#F0DB4F"/>
+      <polygon points="0,17 35,34 35,64 0,47" fill="#D1BE3A"/>
+      <polygon points="35,34 70,17 70,47 35,64" fill="#A89A2E"/>
     </g>
-    <g transform="translate(562,12) rotate(1)">
-      <rect width="98" height="34" rx="4" fill="#F0D9C2"/>
-      <text x="49" y="22" text-anchor="middle">Java</text>
+    <text x="495" y="95" text-anchor="middle">JavaScript</text>
+
+    <g transform="translate(600,10)">
+      <polygon points="35,0 70,17 35,34 0,17" fill="#E76F00"/>
+      <polygon points="0,17 35,34 35,64 0,47" fill="#B85700"/>
+      <polygon points="35,34 70,17 70,47 35,64" fill="#8F4300"/>
     </g>
-    <g transform="translate(670,12) rotate(-2)">
-      <rect width="98" height="34" rx="4" fill="#E9C9C0"/>
-      <text x="49" y="22" text-anchor="middle">HTML5</text>
+    <text x="635" y="95" text-anchor="middle">Java</text>
+
+    <g transform="translate(710,10)">
+      <polygon points="35,0 70,17 35,34 0,17" fill="#E44D26"/>
+      <polygon points="0,17 35,34 35,64 0,47" fill="#B93D1E"/>
+      <polygon points="35,34 70,17 70,47 35,64" fill="#8E2E17"/>
     </g>
+    <text x="745" y="95" text-anchor="middle">HTML5</text>
+
   </g>
 </svg>
 
-<sub><i>the languages that show up most often in the margins</i></sub>
-
 </div>
 
 <br/>
 
-### 04 — activity
+## <sub>◆</sub> live stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=Poddoo&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=2E2A22&text_color=4a4a4a&icon_color=5B7A93" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=Poddoo&theme=transparent&hide_border=true&background=00000000&ring=5B7A93&fire=C0574C&currStreakLabel=2E2A22" height="165"/>
+<img src="https://github-readme-stats.shion.dev/api?username=Poddoo&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=Poddoo&theme=radical&hide_border=true" height="165"/>
 
 <br/>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Poddoo&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=2E2A22&text_color=4a4a4a" height="150"/>
-
-<br/>
-<sub>pulled live from the repositories — reflects what's actually there, nothing staged</sub>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Poddoo&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150"/>
 
 </div>
 
 <br/>
 
-### 05 — postscript
+## <sub>◆</sub> connect
 
 <div align="center">
 
-**GitHub** → [github.com/Poddoo](https://github.com/Poddoo)
-&nbsp;&nbsp;·&nbsp;&nbsp;
-**LinkedIn** → [YOUR_LINKEDIN_URL](YOUR_LINKEDIN_URL)
+<a href="https://github.com/Poddoo">
+<svg width="220" height="58" viewBox="0 0 220 58" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="btnGH" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2b2b3d"/>
+      <stop offset="100%" stop-color="#12121c"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="6" width="210" height="44" rx="10" fill="#000" opacity="0.35"/>
+  <rect width="210" height="44" rx="10" fill="url(#btnGH)"/>
+  <text x="105" y="28" text-anchor="middle" dominant-baseline="middle" fill="#ffffff" font-family="Georgia, serif" font-size="16">GitHub ↗</text>
+</svg>
+</a>
+&nbsp;&nbsp;
+<a href="YOUR_LINKEDIN_URL">
+<svg width="220" height="58" viewBox="0 0 220 58" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="btnLI" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3B82C4"/>
+      <stop offset="100%" stop-color="#1B5FA0"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="6" width="210" height="44" rx="10" fill="#000" opacity="0.35"/>
+  <rect width="210" height="44" rx="10" fill="url(#btnLI)"/>
+  <text x="105" y="28" text-anchor="middle" dominant-baseline="middle" fill="#ffffff" font-family="Georgia, serif" font-size="16">LinkedIn ↗</text>
+</svg>
+</a>
 
-<br/>
+<br/><br/>
 
-<sub>notebook opened <img src="https://komarev.com/ghpvc/?username=Poddoo&color=8a7256&style=flat&label=times" height="14"/></sub>
+<img src="https://komarev.com/ghpvc/?username=Poddoo&color=8A2BE2&style=flat-square&label=Profile+Views"/>
 
 </div>
 
-<br/>
-
-<div align="center">
-<sub>Learn → Build → Improve</sub>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
