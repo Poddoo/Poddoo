@@ -84,15 +84,6 @@ seeking : Internships · Collaborations · Open Source
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rowshonjahanpoddo&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/rowshonjahanpoddo)
-
-</div>
-
----
 
 ## 🌱 Currently Learning
 
