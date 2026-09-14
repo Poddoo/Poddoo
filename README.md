@@ -107,13 +107,22 @@ Git & GitHub          ████████░░ 80%
 
 ---
 
-📫 Connect with Me
-<div align="center"> <a href="https://www.linkedin.com/in/rowshonjahanpoddo/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45" height="45"> </a> &nbsp;&nbsp;&nbsp; <a href="https://github.com/rowshonjahanpoddo/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"> </a>
+### 📫 Connect with Me
 
+<div align="center">
 
-<br/>
+<a href="https://www.linkedin.com/in/rowshonjahanpoddo/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45" height="45">
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/rowshonjahanpoddo/">
+  <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="45" height="45">
+</a>
 
 </div>
+
 
 <div align="center">
 
