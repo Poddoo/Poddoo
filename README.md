@@ -1,56 +1,158 @@
-<h1 align="center">Hi 👋, I'm Rowshon Jahan Poddo</h1>
-<h3 align="center">A passionate developer crafting ideas into code</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!;Always+learning%2C+always+building.;Let's+create+something+amazing." alt="Typing SVG" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0d1117,60:161b22,100:0d1117&height=220&section=header&text=Rowshon%20Jahan%20Poddo&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=40" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rowshonjahanpoddo&label=Profile%20views&color=6c63ff&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/rowshonjahanpoddo?label=Followers&style=social" alt="followers" />
-</p>
+</div>
 
----
+<div align="center">
 
-### 🌱 About Me
+<a href="https://readme-typing-svg.demolab.com"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=const+goal+%3D+%22build+meaningful+things%22%3B;while+(!goal.achieved)+%7B+keep.learning()%3B+%7D;%2F%2F+currently+exploring%3A+new+skills+%2B+ideas;%2F%2F+next+up%3A+bigger+projects+%F0%9F%9A%80;open+for+collaborations+%26+opportunities+%F0%9F%A4%9D" alt="Typing animation" /> </a>
 
-- 🔭 I'm currently working on **exciting personal & open-source projects**
-- 🌱 I'm continuously learning new tools & technologies
-- 👯 I'm open to collaborating on meaningful projects
-- 💬 Ask me about **web development, problem-solving, and tech**
-- ⚡ Fun fact: I believe clean code is a form of art
+</div>
 
----
+<br/>
 
-### 🛠️ Languages & Tools
+<div align="center">
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,java,git,github,vscode,figma" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=rowshonjahanpoddo&color=58a6ff&style=flat-square&label=Profile+Views)
+&nbsp;&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/rowshonjahanpoddo?style=flat-square&color=58a6ff&labelColor=0d1117&label=Followers)](https://github.com/rowshonjahanpoddo?tab=followers)
+&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/-rowshonjahanpoddo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rowshonjahanpoddo/)
+
+</div>
 
 ---
 
-### 📊 GitHub Stats
+<img align="right" alt="Coding GIF" width="360" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" />
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rowshonjahanpoddo&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rowshonjahanpoddo&layout=compact&theme=radical&hide_border=true" />
-</p>
+### `> whoami`
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rowshonjahanpoddo&theme=radical&hide_border=true" />
-</p>
+```yaml
+name    : Rowshon Jahan Poddo
+status  : Student & Aspiring Developer
+location: Dhaka, Bangladesh 🇧🇩
+focus   : Clean code · Real projects · Consistent growth
+seeking : Internships · Collaborations · Open Source
+```
+
+### `> ls interests/`
+
+```
+📁 web-development/
+   ├── html-css-layouts
+   ├── javascript-fundamentals
+   └── responsive-design ← actively learning
+
+📁 learning-pipeline/
+   ├── [✓] HTML & CSS — solid foundation
+   ├── [~] JavaScript — in progress
+   └── [ ] React.js — next target
+```
+
+<br clear="right"/>
 
 ---
 
-### 🤝 Connect With Me
+## 🛠️ Tech Stack
 
-<p align="left">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://facebook.com/your-facebook"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-</p>
+<div align="center">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
+
+<br/><br/>
+
+### 🎨 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" />
+
+<br/><br/>
+
+### ⚙️ Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql" />
+
+<br/><br/>
+
+### 🔧 Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,npm" />
+
+</div>
 
 ---
 
-<p align="center"><i>"Code is like humor. When you have to explain it, it's bad." 😄</i></p>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rowshonjahanpoddo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rowshonjahanpoddo&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6"/>
+
+<br/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=rowshonjahanpoddo&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=8b949e"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rowshonjahanpoddo&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/rowshonjahanpoddo)
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+```
+Responsive Web Design ████████░░ 80%
+JavaScript            ██████░░░░ 60%
+CSS Flexbox / Grid    █████████░ 90%
+Git & GitHub          ████████░░ 80%
+```
+
+---
+
+## 💡 My Philosophy
+
+<div align="center">
+
+> *"Every professional was once a beginner who refused to quit.*
+> *I build projects, break things, fix them, and repeat."*
+
+</div>
+
+---
+
+## 📫 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rowshonjahanpoddo/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rowshonjahanpoddo/)
+
+<br/><br/>
+
+<a href="https://buymeacoffee.com/rowshonjahanpoddo">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" width="180">
+</a>
+
+<br/><br/>
+
+**Open to:** `Internships` · `Collaborations` · `Code Reviews` · `Mentorship`
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:161b22,100:0a0a0f&height=100&section=footer&text=Thanks+for+visiting!+%E2%AD%90+Star+something+if+you+like+it!&fontSize=14&fontColor=58a6ff&fontAlignY=65"/>
+
+</div>
