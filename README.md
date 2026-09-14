@@ -112,13 +112,13 @@ Git & GitHub          ████████░░ 80%
 <div align="center">
 
 <a href="https://www.linkedin.com/in/rowshonjahanpoddo/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/linkedin.svg" alt="LinkedIn" width="45" height="45">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45" height="45">
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/rowshonjahanpoddo/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/github.svg" alt="GitHub" width="45" height="45">
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" width="45" height="45">
 </a>
 
 </div>
