@@ -84,22 +84,6 @@ seeking : Internships · Collaborations · Open Source
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rowshonjahanpoddo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rowshonjahanpoddo&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6"/>
-
-<br/>
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=rowshonjahanpoddo&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=8b949e"/>
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -132,22 +116,11 @@ Git & GitHub          ████████░░ 80%
 
 ---
 
-## 📫 Connect with Me
+📫 Connect with Me
+<div align="center"> <a href="https://www.linkedin.com/in/rowshonjahanpoddo/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45" height="45"> </a> &nbsp;&nbsp;&nbsp; <a href="https://github.com/rowshonjahanpoddo/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"> </a>
 
-<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rowshonjahanpoddo/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rowshonjahanpoddo/)
-
-<br/><br/>
-
-<a href="https://buymeacoffee.com/rowshonjahanpoddo">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" width="180">
-</a>
-
-<br/><br/>
-
-**Open to:** `Internships` · `Collaborations` · `Code Reviews` · `Mentorship`
+<br/>
 
 </div>
 
